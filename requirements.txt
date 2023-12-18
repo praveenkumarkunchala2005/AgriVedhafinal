@@ -1,6 +1,7 @@
 Flask
 pandas
 tensorflow
+tensorflow-gpu
 numpy
 scikit-image
 gevent
