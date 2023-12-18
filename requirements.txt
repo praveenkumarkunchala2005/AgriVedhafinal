@@ -1,6 +1,6 @@
 Flask
 pandas
-tensorflow==2.7.0
+tensorflow
 numpy
 scikit-image
 gevent
