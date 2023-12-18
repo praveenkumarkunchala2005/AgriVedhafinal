@@ -1,0 +1,5 @@
+ [build]
+  command = 'export TF_ENABLE_ONEDNN_OPTS=0 && python app.py'
+  functions = 'functions/'
+  publish = 'static/'
+  base = '/'

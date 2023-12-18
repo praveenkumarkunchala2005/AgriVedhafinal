@@ -1,0 +1,9 @@
+Flask
+pandas
+tensorflow==2.7.0
+numpy
+scikit-image
+gevent
+scikit-learn
+h5py==3.7.0
+protobuf==3.20.0
